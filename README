@@ -1,0 +1,12 @@
+Hoster was a project of boredom for me. It appends localhosted urls to the end of your hosts file.
+
+for the sake of normalcy, you'll want to compile it with the flag -o addhost,
+or take a moment to change the name on line 17 where the script reprimands you for not sudoing. 
+
+my next fit of boredom will include a menu to cat, del lines, and probably a flagged 
+cmd line argument along the lines of addhost -a <site>.
+
+I'm well aware this takes the place of almost no effort to accomplish the same thing. Balk not,
+because it's just to play around and say I could.
+
+One final note: do yourself a favor and either ./run this, or put it in /usr/local/bin. 
